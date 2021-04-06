@@ -1,0 +1,25 @@
+.N-img {
+  height: 250px;
+}
+
+body {
+    background-color: #25293E;
+}
+
+.text {
+    background-color: #F9F9F9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    border: solid;
+    border-color: #817071;
+}
+
+.ep-img {
+    height: 200px;
+}
+
+.h-img {
+    height: 300px;
+}
